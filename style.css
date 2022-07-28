@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gentium Book Plus', serif;
+}
+
+.my-icon-bg {
+    background-color: yellow;
+}
+.modal{
+    color: red;
+}
